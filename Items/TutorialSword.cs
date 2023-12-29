@@ -10,8 +10,8 @@ namespace Veritas.Items
 
 		public override void SetDefaults()
 		{
-			Item.damage = 50;
-			Item.DamageType = DamageClass.Melee;
+			Item.damage = 100;
+			Item.DamageType = DamageClass.Magic;
 			Item.width = 40;
 			Item.height = 40;
 			Item.useTime = 20;
