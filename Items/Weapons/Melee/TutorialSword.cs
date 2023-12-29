@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Veritas.Items
+namespace Veritas.Items.Weapons.Melee
 {
 	public class TutorialSword : ModItem
 	{
